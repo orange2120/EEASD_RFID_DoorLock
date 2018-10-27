@@ -10,7 +10,7 @@ For `NTUEE SAAD` workshop.
 
 RFID RC522 and Arduino Uno Pin Configuration  
 | RFID RC522 | Arduino Uno |  
-|------------|-------------|   
+| ---------- | ----------- |   
 | SS/SDA     | D10         |  
 | SCK        | D13         |  
 | MOSI       | D11         |  
@@ -23,14 +23,14 @@ RFID RC522 and Arduino Uno Pin Configuration
   
 1602 LCD Connections  
 | RFID RC522 | Arduino Uno |  
-|------------|-------------|  
+| ---------- | ----------- |  
 |I<sup>2</sup>C SDA  | A4  |  
 |I<sup>2</sup>C SCL  | A5  |    
   
   
 Others  
 |    Name     | Arduino Uno |  
-|-------------|-------------|  
+| ----------- | ----------- |  
 | RED_LED   | D6  |  
 | GREEN_LED | D7  |  
 | BUZZER    | D8  |  
